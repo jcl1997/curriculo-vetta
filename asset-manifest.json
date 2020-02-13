@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/curriculo-vetta/static/css/main.2a716292.chunk.css",
+    "main.js": "/curriculo-vetta/static/js/main.131b2403.chunk.js",
+    "main.js.map": "/curriculo-vetta/static/js/main.131b2403.chunk.js.map",
+    "runtime-main.js": "/curriculo-vetta/static/js/runtime-main.594fb7bc.js",
+    "runtime-main.js.map": "/curriculo-vetta/static/js/runtime-main.594fb7bc.js.map",
+    "static/js/2.9a8d811b.chunk.js": "/curriculo-vetta/static/js/2.9a8d811b.chunk.js",
+    "static/js/2.9a8d811b.chunk.js.map": "/curriculo-vetta/static/js/2.9a8d811b.chunk.js.map",
+    "index.html": "/curriculo-vetta/index.html",
+    "precache-manifest.8119b5e802bdfb43c7d978e698d55aa9.js": "/curriculo-vetta/precache-manifest.8119b5e802bdfb43c7d978e698d55aa9.js",
+    "service-worker.js": "/curriculo-vetta/service-worker.js",
+    "static/css/main.2a716292.chunk.css.map": "/curriculo-vetta/static/css/main.2a716292.chunk.css.map",
+    "static/js/2.9a8d811b.chunk.js.LICENSE.txt": "/curriculo-vetta/static/js/2.9a8d811b.chunk.js.LICENSE.txt",
+    "static/media/foto.png": "/curriculo-vetta/static/media/foto.ae594107.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.594fb7bc.js",
+    "static/js/2.9a8d811b.chunk.js",
+    "static/css/main.2a716292.chunk.css",
+    "static/js/main.131b2403.chunk.js"
+  ]
+}
