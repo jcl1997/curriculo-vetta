@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f6b3de5fe38ae016de602c4c06463d4",
+    "revision": "d7e52956acd8071a60c50d2b99c95bab",
     "url": "/curriculo-vetta/index.html"
   },
   {
-    "revision": "1bca3cb22cab778b7121",
+    "revision": "e0d0d0a8d852d053e98c",
     "url": "/curriculo-vetta/static/css/main.2a716292.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/curriculo-vetta/static/js/2.9a8d811b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1bca3cb22cab778b7121",
-    "url": "/curriculo-vetta/static/js/main.131b2403.chunk.js"
+    "revision": "e0d0d0a8d852d053e98c",
+    "url": "/curriculo-vetta/static/js/main.27000571.chunk.js"
   },
   {
     "revision": "ad94581966c5a45b23a4",

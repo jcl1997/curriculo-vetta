@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/curriculo-vetta/precache-manifest.8119b5e802bdfb43c7d978e698d55aa9.js"
+  "/curriculo-vetta/precache-manifest.b7612fdc67952363eb60746423592444.js"
 );
 
 self.addEventListener('message', (event) => {
