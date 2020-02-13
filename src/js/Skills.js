@@ -19,21 +19,7 @@ export default class Skills extends Component {
             <li className="list-group-item">
               <p className="mb-0 align-middle">
                 <i className="fab fa-js fa-2x align-middle" />&nbsp;Javascript &nbsp;
-                <i className="fab fa-php fa-2x align-middle" />&nbsp;PHP 7
-              </p>
-            </li>
-            <li className="list-group-item">
-              <p className="mb-0 align-middle">
-                <i className="fab fa-symfony fa-2x align-middle" />
-                &nbsp;Symfony &nbsp;
-                <i className="fab fa-node-js fa-2x align-middle" />
-                &nbsp;Nodejs
-              </p>
-            </li>
-            <li className="list-group-item">
-              <p className="mb-0 align-middle">
-                <i className="fas fa-database fa-2x align-middle" />
-                &nbsp;Sql
+                <i className="fab fa-node-js fa-2x align-middle" />&nbsp;Nodejs
               </p>
             </li>
           </ul>

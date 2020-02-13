@@ -8,28 +8,18 @@ export default class Header extends Component {
           <h3 className="card-title text-white">Perfil</h3>
         </div>
         <div className="pt-5 card-body">
-          <ul className="list-group list-group-flush">
-            <li className="list-group-item list-group-item-action">
-              <p className="mb-0 align-middle">
-                Atuo com Jquery e React
-              </p>
-            </li>
-            <li className="list-group-item list-group-item-action">
-              <p className="mb-0 align-middle">
-                <i className="fab fa-symfony fa-2x align-middle" />&nbsp;Symfony PHP 3.4
-              </p>
-            </li>
-            <li className="list-group-item list-group-item-action">
-              <p className="mb-0 align-middle">
-                <i className="fab fa-react fa-2x align-middle" />&nbsp;React e React Native
-              </p>
-            </li>
-            <li className="list-group-item list-group-item-action">
-              <p className="mb-0 align-middle">
-                <i className="fab fa-git-alt fa-2x align-middle" />&nbsp;Git
-              </p>
-            </li>
-          </ul>
+          <p>
+            Atuo com desenvolvedor desde novembro de 2017. 
+          </p>
+          <p>
+            Comecei com o Jquery criando plugins com Javascript e adicionando novos recursos ao sistema WebCal da Engecal.
+          </p>
+          <p>
+            Em janeiro de 2019, participei da criação de um projeto no React, adicionando pequenos recursos e até mesmo o CRUD completo.
+          </p>
+          <p>
+            Independente da ferramenta utilizada para criação de interface Web, sempre busco entrega qualidade, usabilidade e beleza para o melhor aproveitamento do usuário final.
+          </p>
         </div>
       </div>
     );

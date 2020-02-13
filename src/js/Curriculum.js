@@ -23,10 +23,10 @@ export default class Curriculum extends Component {
           <Experience />
         </div>
         <div className="p-2 mx-auto mt-1">
-          <Education />
+          <Skills />
         </div>
         <div className="p-2 mx-auto mt-1">
-          <Skills />
+          <Education />
         </div>
       </Fragment>
     );

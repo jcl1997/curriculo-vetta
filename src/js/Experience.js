@@ -13,7 +13,7 @@ export default class Experience extends Component {
               <div className="d-flex w-100 justify-content-between">
                 <p className="mb-1">
                   O aplicativo "WebCal Mobile" da empresa começou a ser refatorado de Java para Javascript utilizando React Native.
-                  Fazendo telas em React Native, componentes reutilizáveis de tela, serviços de background em Android para funciona em segundo plano.
+                  Adicionado componentes, telas, serviços de background para funciona no Android.
                 </p>
                 <small className="text-muted">07/2019</small>
               </div>
@@ -22,7 +22,7 @@ export default class Experience extends Component {
               <div className="d-flex w-100 justify-content-between">
                 <p className="mb-1">
                   Ainda no Projeto do XNINE comecei a trabalhar com o frontend Utilizando o React.
-                  Fazendo telas em React Native, componentes reutilizáveis de tela e etc.
+                  Adicionado componentes e telas de CRUD completas.
                 </p>
                 <small className="text-muted">01/2019</small>
               </div>

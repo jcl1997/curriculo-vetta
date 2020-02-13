@@ -14,19 +14,19 @@ export default class User extends Component {
           <Profile />
         </div>
         <div className="p-2">
-          <Contact />
-        </div>
-        <div className="p-2">
-          <Follow />
-        </div>
-        <div className="p-2">
           <About />
         </div>
         <div className="p-2">
-          <Hobbies />
+          <Contact />
+        <div className="p-2">
+          <Follow />
+        </div>
         </div>
         <div className="p-2">
           <GoogleMap />
+        </div>
+        <div className="p-2">
+          <Hobbies />
         </div>
       </Fragment>
     );
